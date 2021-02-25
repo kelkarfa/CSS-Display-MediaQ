@@ -253,6 +253,8 @@ h1 {
 h2 {
 	color: sandybrown;
 	font-size: 15px;
+    
+    
 }
 p {
 	color: #555;
@@ -302,6 +304,10 @@ section {
 	
 }
 
+   .wide, .lowergroup, figure {
+        margin-left: 60px;
+    }
+
 section.wide {
 
 	height: auto;
@@ -348,6 +354,7 @@ figure {
 /* Set Display Types */
 figure, .lowergroup {
 	display: block;
+    
 }
 
 .one, .two, .four, .five, .six, .seven, .eight {
